@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amit_Singh_CSI_Weather_App/static/css/main.43000deb.css",
+    "main.js": "/Amit_Singh_CSI_Weather_App/static/js/main.ac9d6bac.js",
+    "static/media/cold.jpeg": "/Amit_Singh_CSI_Weather_App/static/media/cold.a1eca801c2fed04cec31.jpeg",
+    "static/media/hot.jpeg": "/Amit_Singh_CSI_Weather_App/static/media/hot.238f4e06ea66b1087353.jpeg",
+    "index.html": "/Amit_Singh_CSI_Weather_App/index.html",
+    "main.43000deb.css.map": "/Amit_Singh_CSI_Weather_App/static/css/main.43000deb.css.map",
+    "main.ac9d6bac.js.map": "/Amit_Singh_CSI_Weather_App/static/js/main.ac9d6bac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43000deb.css",
+    "static/js/main.ac9d6bac.js"
+  ]
+}
